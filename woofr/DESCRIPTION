@@ -1,0 +1,10 @@
+Package: woofr
+Type: Package
+Title: Anala's Personal R Package
+Version: 0.1.0
+Author: Anala Gossai
+Maintainer: The package maintainer <anala.gossai@gmail.com>
+Description: Functions to alleviate repeated recoding 
+License: Public use
+Encoding: UTF-8
+LazyData: true
